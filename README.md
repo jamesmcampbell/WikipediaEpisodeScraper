@@ -1,7 +1,7 @@
 # WikipediaEpisodeScraper
 Scrapes the names of all episodes of a TV series from a wikipedia page and outputs them to a text file
 
-Run the python file, scrape_h2_h3_table.py can by compiled using:
+Run the python file, scrape_h2_h3_table.py can by compiled using:<br/>
 python scrape_h2_h3_table.py
 and input the desired URL of a Wikipedia article of and episode list of a TV series
 
