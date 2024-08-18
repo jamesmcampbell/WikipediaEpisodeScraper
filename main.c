@@ -8,7 +8,7 @@ int main() {
     make_episodes_list_file: 
     {
         Py_Initialize();
-        PyRun_SimpleString("exec(open('scrape_h2_h3_table.py').read())");
+        PyRun_SimpleString("exec(open('scrape_episodes_with_headers.py').read())");
         Py_Finalize();
     }
     
